@@ -1,4 +1,4 @@
-const text = "Bienvenidos a mi perfil";
+const text = "Bienvenid@";
 const typedTextSpan = document.getElementById("typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
